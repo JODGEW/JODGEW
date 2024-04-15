@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi, I'm Wenhao He :wave:
 
-<!--
-**JODGEW/JODGEW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :book: About Me
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,js,html,css,mysql,c)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+- Recent graduate from the University at Buffalo with Master of Science in Engineering Science, focusing on Artificial Intelligence.
+- Also obtaining a Bachelor of Science in Computer Science at the same institution.
+- I'm deeply committed to leveraging my skills to contribute positively into the AI field.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, seeking opportunities in Machine Learning Enginner!
+
+### 📊 GitHub Stats
+
+<a href="https://github.com/JODGEW/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&langs_count=10&hide=jupyter%20notebook&theme=algolia&layout=compact" /></a>
