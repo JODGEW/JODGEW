@@ -1,7 +1,7 @@
 # Hi, I'm Wenhao He :wave:
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,js,html,css,mysql,c)](https://skillicons.dev)
 
 ### :book: About Me
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,js,html,css,mysql,c)](https://skillicons.dev)
 
 - Recent graduate from the University at Buffalo with Master of Science in Engineering Science, focusing on Artificial Intelligence.
 - Also obtaining a Bachelor of Science in Computer Science at the same institution.
