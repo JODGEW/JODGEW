@@ -3,7 +3,7 @@
 
 ### :computer: About Me
 
-- Recent graduate from the University at Buffalo with Master of Science in Engineering Science, focusing on Artificial Intelligence.
+- Recent graduate from the University at Buffalo with Master of Science in Engineering Science, focus on Artificial Intelligence.
 - Also obtaining a Bachelor of Science in Computer Science at the same institution.
 - I'm deeply committed to leveraging my skills to contribute positively into the AI field.
 
