@@ -7,7 +7,7 @@
 - Also obtaining a Bachelor of Science in Computer Science at the same institution.
 - I'm deeply committed to leveraging my skills to contribute positively into the AI field.
 
-Currently, seeking opportunities in Machine Learning Enginner/Data Scientist!
+Currently, seeking opportunities in Machine Learning Enginner/Data Engineer!
 
 ### :book: GitHub Stats
 
