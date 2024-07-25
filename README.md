@@ -3,11 +3,11 @@
 
 ### :computer: About Me
 
-- Recent graduate from the University at Buffalo with Master of Science in Engineering Science, focus on Artificial Intelligence.
-- Also obtaining a Bachelor of Science in Computer Science at the same institution.
-- I'm deeply committed to leveraging my skills to contribute positively into the AI field.
+- Recent graduate from the <strong>University at Buffalo</strong> with Master of Science in Engineering Science, focus on Artificial Intelligence.
+- Also hold a Bachelor of Science in Computer Science at the same institution.
+- My expertise includes <strong>machine learning</strong>, <strong>data analytics</strong>, and <strong>software development</strong>
 
-Currently, seeking opportunities in Machine Learning Enginner/Data Engineer!
+Currently, seeking opportunities in Data Analyst/Software Developer!
 
 ### :book: GitHub Stats
 
