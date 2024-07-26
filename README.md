@@ -9,6 +9,8 @@
 
 Currently, seeking opportunities in Data Analyst/Software Developer!
 
+At the meantime, feel free to check out my [personal website](https://wenhaohe.com/html/index.html)!
+
 ### :book: GitHub Stats
 
 <a href="https://github.com/JODGEW/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&langs_count=10&hide=jupyter%20notebook&theme=algolia&layout=compact" /></a>
