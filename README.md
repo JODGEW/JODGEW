@@ -1,4 +1,4 @@
-# Hi, I'm Wenhao He :wave:
+# Hey, I'm Wenhao He :wave:
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,js,html,css,mysql,c)](https://skillicons.dev)
 
 ### :computer: About Me
