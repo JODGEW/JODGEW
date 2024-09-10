@@ -9,7 +9,7 @@
 
 Currently, seeking opportunities in Data Analyst/Software Developer!
 
-At the meantime, feel free to check out my [personal website](https://wenhaohe.com/html/index.html)!
+At the meantime, feel free to check out my [personal website](https://wenhaohe.com)!
 
 ### :book: GitHub Stats
 
