@@ -1,16 +1,22 @@
 # Hey, I'm Wenhao He :wave:
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,js,html,css,mysql,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,js,ts,graphql,react,flutter,nodejs,html,css,mysql,c,aws,azure,googlecloud,docker,postgres,git)](https://skillicons.dev)
 
 ### :computer: About Me
 
-- Recent graduate from the <strong>University at Buffalo</strong> with Master of Science in Engineering Science, focus on Artificial Intelligence.
-- Also earned my Bachelor of Science in Computer Science at the same institution.
-- My expertise includes <strong>machine learning</strong>, <strong>deep learning</strong>, <strong>data analytics</strong>, and <strong>software development</strong>.
+- 🎯 Earned a **Master of Science in Engineering Science** from the **University at Buffalo** in May 2024, focus on **Artificial Intelligence**.
+- 🎓 Also earned a **Bachelor of Science in Computer Science** from the same institution.
+- 🚀 My expertise spans **machine learning**, **deep learning**, **data analytics**, and **software development**.
+- 🔧 Proficient with tools and frameworks like **React**, **Node.js**, **GraphQL**, **AWS (SageMaker, S3)**, **Google Cloud**, **Microsoft Azure**, **Docker**, **Kubernetes**, and **Firebase**.
 
-Currently, seeking opportunities in Data Analyst/Software Developer!
+### 🚀 What I'm Looking For
 
-At the meantime, feel free to check out my [personal website](https://wenhaohe.com)!
+I'm seeking opportunities as a **Software Developer** or **Data Analyst** where I can apply my expertise in AI, software development, and data analytics to create impactful solutions.
+
+### 🌐 Connect With Me
+
+- 💻 [Personal Website](https://wenhaohe.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/wenhao-he-77126a230/)
 
 ### :book: GitHub Stats
 
-<a href="https://github.com/JODGEW/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&langs_count=10&hide=jupyter%20notebook&theme=algolia&layout=compact" /></a>
+<a href="https://github.com/JODGEW/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&layout=compact&langs_count=10&hide=jupyter%20notebook&theme=ambient_gradient&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=35,4158d0,c850c0,ffcc70" />
