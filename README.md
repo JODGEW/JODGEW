@@ -3,8 +3,7 @@
 
 ### :computer: About Me
 
-- 🎯 Earned a **Master of Science in Engineering Science** from the **University at Buffalo** in May 2024, focus on **Artificial Intelligence**.
-- 🎓 Also earned a **Bachelor of Science in Computer Science** from the same institution.
+- 🎓 Earned a **Master of Science in Engineering Science** from the **University at Buffalo**, focus on **Artificial Intelligence** and a **Bachelor of Science in Computer Science** from the same institution.
 - 🚀 My expertise spans **machine learning**, **deep learning**, **data analytics**, and **software development**.
 - 🔧 Proficient with tools and frameworks like **React**, **Node.js**, **GraphQL**, **AWS (SageMaker, S3)**, **Google Cloud**, **Microsoft Azure**, **Docker**, **Kubernetes**, and **Firebase**.
 
