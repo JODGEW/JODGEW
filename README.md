@@ -5,7 +5,7 @@
 
 - 🎓 Earned a **Master of Science in Engineering Science** from the **University at Buffalo**, focus on **Artificial Intelligence** and a **Bachelor of Science in Computer Science** from the same institution.
 - 🚀 My expertise spans **machine learning**, **deep learning**, **data analytics**, and **software development**.
-- 🔧 Proficient with tools and frameworks like **React**, **Node.js**, **GraphQL**, **AWS (SageMaker, S3)**, **Google Cloud**, **Microsoft Azure**, **Docker**, **Kubernetes**, and **Firebase**.
+- 🔧 Proficient with tools and frameworks like **React**, **Node.js**, **GraphQL**, **Flutter**, **AWS (SageMaker, S3)**, **Google Cloud**, **Firebase**, **Microsoft Azure**, and **Docker**.
 
 ### 🚀 What I'm Looking For
 
