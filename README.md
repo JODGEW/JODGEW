@@ -13,8 +13,8 @@ I'm seeking opportunities as a **Software Developer** or **Data Analyst** where 
 
 ### 🌐 Connect With Me
 
-- 💻 [Personal Website](https://wenhaohe.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/wenhao-he-77126a230/)
+- 💻 [Personal Website](https://wenhaohe.com)
 
 ### :book: GitHub Stats
 
