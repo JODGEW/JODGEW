@@ -9,7 +9,7 @@
 
 ### 🚀 What I'm Looking For
 
-I'm seeking opportunities as a **Machine Learning Engineer** or **Software Developer** where I can apply my expertise in AI, software development, and data analytics to create impactful solutions.
+I'm seeking opportunities as a **Machine Learning Engineer** or **Software Engineer** where I can apply my expertise in AI, software development, and data analytics to create impactful solutions.
 
 ### 🌐 Connect With Me
 
