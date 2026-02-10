@@ -13,7 +13,7 @@ I'm seeking opportunities as a **Machine Learning Engineer** or **Software Engin
 
 ### 🌐 Connect With Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/wenhao-he-77126a230/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jacky-wenhao-he-77126a230/)
 - 💻 [Personal Website](https://wenhaohe.com)
 
 ### :book: GitHub Stats
