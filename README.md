@@ -15,7 +15,4 @@ I'm seeking opportunities as a **Software Engineer (Full-Stack)**, **Backend Eng
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/wenhao-he-77126a230/)
 - 💻 [Personal Website](https://wenhaohe.com)
-
-### :book: GitHub Stats
-
-<a href="https://github.com/JODGEW/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&layout=compact&langs_count=10&hide=jupyter%20notebook&theme=ambient_gradient&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=35,4158d0,c850c0,ffcc70" />
+- 📱 [ResumeMatch App](https://resumematchapp.com)
