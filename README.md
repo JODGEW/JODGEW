@@ -1,16 +1,12 @@
-# Hey, I'm Wenhao He :wave:
+# Wenhao He
 
 I build production AI applications: LLM pipelines, agentic RAG, and the evaluation harnesses that tell you whether any of it actually works. Two years full-stack in New York. Right now that's [ResumeMatch](https://resumematchapp.com), which I designed, shipped, and operate solo.
 
-[![My Skills](https://skillicons.dev/icons?i=py,ts,js,java,react,nextjs,nodejs,fastapi,spring,graphql,postgres,mongodb,aws,azure,docker,kubernetes,kafka,pytorch,git,githubactions)](https://skillicons.dev)
+Before this I was full-stack at two NYC startups: GraphQL ordering systems at Clipp, Azure Form Recognizer document intake at CAN International. M.S. in Engineering Science (AI) and B.S. in Computer Science from the University at Buffalo, and an AWS Certified Developer – Associate.
 
-### :computer: About Me
+What I care about most is making AI systems measurable. Evidence guards, frozen holdouts, and offline evals are the unglamorous part that tells you whether the model is actually right.
 
-* 🎓 **M.S. Engineering Science (AI)** and **B.S. Computer Science**, University at Buffalo · **AWS Certified Developer – Associate**
-* 🏗️ Full-stack at two NYC startups before this: GraphQL ordering systems at **Clipp**, Azure Form Recognizer document intake at **CAN International**
-* 🔬 What I care about most is making AI systems *measurable*. Evidence guards, frozen holdouts, and offline evals are the unglamorous part that tells you whether the model is actually right.
-
-### 🛠️ What I've Built
+### What I've Built
 
 **[ResumeMatch](https://resumematchapp.com)**: serverless AI resume analyzer on AWS, live in production, built and operated solo · [frontend](https://github.com/JODGEW/ResumeMatch) · [backend](https://github.com/JODGEW/ResumeMatch-backend)
 
@@ -29,14 +25,12 @@ I build production AI applications: LLM pipelines, agentic RAG, and the evaluati
 * Transactional outbox makes PostgreSQL → Kafka event publication reliable across service outages; a `processed_events` ledger with uniqueness constraints gives consumers idempotency under retry and redelivery.
 * `Java · Spring Boot · Kafka · PostgreSQL · Docker · Kubernetes`
 
-**Also shipped:** [My blog](https://blog.wenhaohe.com) ([repo](https://github.com/JODGEW/personal-blog)) on Next.js 15 + MongoDB, rewritten from an earlier Express app, with a hand-rolled theme system on plain CSS design tokens.
+Also shipped: [my blog](https://blog.wenhaohe.com) ([repo](https://github.com/JODGEW/personal-blog)) on Next.js 15 + MongoDB, rewritten from an earlier Express app, with a hand-rolled theme system on plain CSS design tokens.
 
-### 🚀 What I'm Looking For
+### What I'm Looking For
 
-I'm seeking opportunities as a **Software Engineer (Full-Stack)**, **Backend Engineer**, or **Applied AI / Machine Learning Engineer** where I can build scalable products, intelligent systems, and cloud-native applications that deliver real user impact.
+Software Engineer (Full-Stack), Backend Engineer, or Applied AI / Machine Learning Engineer roles where I can build scalable products, intelligent systems, and cloud-native applications.
 
-### 🌐 Connect With Me
+### Elsewhere
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/wenhao-he-77126a230/)
-- 💻 [Personal Website](https://wenhaohe.com)
-- 📱 [ResumeMatch App](https://resumematchapp.com)
+[LinkedIn](https://www.linkedin.com/in/wenhao-he-77126a230/) · [wenhaohe.com](https://wenhaohe.com) · [blog](https://blog.wenhaohe.com) · [ResumeMatch](https://resumematchapp.com)
